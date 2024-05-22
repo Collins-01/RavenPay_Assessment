@@ -63,3 +63,5 @@ To start working on this project, follow these steps:
 2. flutter pub get
 
 
+![Demo](screen_record_1.gif)
+![Demo](screen_record_2.gif)
