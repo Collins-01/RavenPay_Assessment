@@ -1,5 +1,6 @@
 # RavenPay Assessment
 
+## NB: If you are in Nigeria, make sure to use a VPN to access Binance's API
 ## Overview
 
 This project is a Flutter application that leverages various libraries to build a responsive and interactive user interface. The application integrates state management, HTTP communication, WebSocket connections, and SVG rendering to show real-time orders and prices from  Binance API.
